@@ -1,5 +1,5 @@
 <html>
-<head> <title>CE2 Evaluation<title>
+<head> CE2 Evaluation
 </head>
 <body>
 <div><p>So this repo is my CE2 Evaluation </p>
